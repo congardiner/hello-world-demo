@@ -10,7 +10,7 @@ The purpose of creating this program was to showcase that my IDE is properly con
 
 # Development Environment
 
-I used the terminal, pylance, visual code studio, Github and Python to ensure that my code was clean, with no errors in spelling and that my syntax is correct with the logic utilized. This was further verified as I tested my program to ensure that it met the requirements. 
+I used pylance, visual code studio, Github and Python to ensure that my code was clean, with no errors in spelling and that my syntax is correct with the logic utilized. This was further verified as I tested my program to ensure that it met the requirements. 
 
 # Useful Websites
 
